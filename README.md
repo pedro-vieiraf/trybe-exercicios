@@ -1,2 +1,2 @@
 # trybe-exercicios
-exercícios trybe
+# Meu repositório de exercícios
