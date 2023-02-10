@@ -1,0 +1,4 @@
+
+git add .
+git commit -m 'arquivo de texto explicando o porquê disso.'
+queijo.
